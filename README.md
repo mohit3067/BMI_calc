@@ -1,7 +1,7 @@
 # bmi_calc
 
-A new Flutter project.
-
+Body Mass Index (BMI) is a person’s weight in kilograms (or pounds) divided by the square of height in meters (or feet). A high BMI can indicate high body fatness. BMI screens for weight categories that may lead to health problems, but it does not diagnose the body fatness or health of an individual.
+this bmi scroe you can check by using this applicaton.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
